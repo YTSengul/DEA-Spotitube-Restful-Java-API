@@ -1,0 +1,8 @@
+nl/han/ica/oose/dea/spotitube/test/servicetest/LoginServiceTest.class
+nl/han/ica/oose/dea/spotitube/test/servicetest/PlaylistServiceTest.class
+nl/han/ica/oose/dea/spotitube/test/TokenGeneratorTest.class
+nl/han/ica/oose/dea/spotitube/test/servicetest/TracksServiceTest.class
+nl/han/ica/oose/dea/spotitube/test/controllertest/LoginControllerTest.class
+nl/han/ica/oose/dea/spotitube/test/controllertest/TracksControllerTest.class
+nl/han/ica/oose/dea/spotitube/test/controllertest/PlaylistControllerTest.class
+nl/han/ica/oose/dea/spotitube/test/servicetest/TokenServiceTest.class

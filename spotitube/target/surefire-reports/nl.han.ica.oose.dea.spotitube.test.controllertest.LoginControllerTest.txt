@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: nl.han.ica.oose.dea.spotitube.test.controllertest.LoginControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in nl.han.ica.oose.dea.spotitube.test.controllertest.LoginControllerTest
+nl.han.ica.oose.dea.spotitube.test.controllertest.LoginControllerTest.testValidLoginUser()  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at nl.han.ica.oose.dea.spotitube.test.controllertest.LoginControllerTest.testValidLoginUser(LoginControllerTest.java:36)
+
+nl.han.ica.oose.dea.spotitube.test.controllertest.LoginControllerTest.testInValidLoginUser()  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at nl.han.ica.oose.dea.spotitube.test.controllertest.LoginControllerTest.testInValidLoginUser(LoginControllerTest.java:50)
+
